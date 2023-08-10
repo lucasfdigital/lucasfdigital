@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Olá, sou Lucas Fernandes, atualmente sou Designer e Assistente de Marketing Sênior, em Fortaleza/CE, trabalho com desenvolvimento web e mídias online e offline. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos. Meu trabalho é construir uma mídia funcional e amigável, mas ao mesmo tempo atraente. Além disso, adiciono um toque pessoal ao seu produto e garanto que seja atraente e fácil de usar. Meu objetivo é transmitir sua mensagem e identidade da maneira mais criativa possível.
+Olá, sou Lucas Fernandes, atualmente sou Desenvolvedor e Analista de Marketing, em Fortaleza/CE, trabalho com desenvolvimento web, mídias online e offline. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos. Meu trabalho é construir uma mídia funcional e amigável, mas ao mesmo tempo atraente. Além disso, adiciono um toque pessoal ao seu produto e garanto que seja atraente e fácil de usar. Meu objetivo é transmitir sua mensagem e identidade da maneira mais criativa possível.
 
 
 ## 🔗 Links
