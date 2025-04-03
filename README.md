@@ -1,5 +1,3 @@
-![Logo](https://i.ibb.co/ZJxVDmN/Ativo-3.png)
-
 <h1 align="center">Hi 👋, I'm Lucas Fernandes</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
