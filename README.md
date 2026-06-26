@@ -31,15 +31,14 @@ Eu vivo na ponte entre **Marketing e Growth**, garantindo que cada lead vire opo
 ## 🚀 No momento
 
 - 🧩 Liderando desenvolvimento e automação na **ESCALE BIZ**
-- 🤝 **Tô contratando!** Procurando um(a) **SDR Pleno** afiado(a). Conhece alguém? Me chama.
 - 🏅 Já fui **mentor em hackathon de IA**
-- 🎓 Finalizando a graduação em **Marketing (UNIFOR)**
-- 📜 Colecionando certificados de IA: **21 e contando**
+- 🎓 Formado em **Marketing**
+- 📜 Colecionando certificados: **21 e contando**
 
 ## 🎬 A trajetória (com plot twist)
 
 ```
-Cinema  →  Design  →  Marketing  →  Growth  →  Automação & IA
+Cinema > Design > Marketing > Growth > Automação & IA > Desenvolvimento
 ```
 
 Cada fase me deu uma peça do quebra-cabeça: o cinema me ensinou narrativa, o design me deu o olho, o marketing a estratégia, o growth a obsessão por resultado, e a automação juntou tudo isso em escala.
